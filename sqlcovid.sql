@@ -1,3 +1,5 @@
+-- DATA EXPLORATION MADE FROM OUR WORLD IN DATA COVID-19 DATASET
+
 select * from PortfolioProject..CovidDeaths order by 3,4
 
 -- Select data that we are going to be using
